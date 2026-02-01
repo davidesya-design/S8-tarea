@@ -1,4 +1,4 @@
-# PROGRAMACIÓN ORIENTADA A OBJETOS
+
 
 Este repositorio contiene el código fuente desarrollado durante la asignatura **Programación Orientada a Objetos**, impartida en la **Universidad Estatal Amazónica**. Está diseñado como un recurso de apoyo para estudiantes y profesionales interesados en conceptos y prácticas de programación orientada a objetos.
 
@@ -6,7 +6,6 @@ Este repositorio contiene el código fuente desarrollado durante la asignatura *
 
 - **Institución**: Universidad Estatal Amazónica (UEA)  
 - **Carrera**: Ingeniería en Tecnologías de la Información  
-- **Asignatura**: Programación Orientada a Objetos
 - **Estudiante**: Andrew David Valenzuela Yela
 
 ## Descripción General
@@ -81,8 +80,8 @@ Este repositorio incluye:
 
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/snogales-uea/2525-PROGRAMACION-ORIENTADA-A-OBJETOS.git
-   cd 2525-PROGRAMACION-ORIENTADA-A-OBJETOS
+   git clone https://github.com/davidesya-design/S8-tarea.git
+   cd S8-tarea
    ```
 
 2. Asegúrate de tener Python 3.x instalado:
@@ -120,13 +119,19 @@ Este repositorio incluye:
 2. Cambiar el repositorio remoto del proyecto clonado:
    ```bash
    git remote remove origin
-   git remote add origin https://github.com/tu-usuario/proyecto-clonado.git
+   git remote add origin https://github.com/tu-usuario/tu-repositorio.git
    ```
 
 3. Subir el proyecto a tu repositorio personal:
    ```bash
    git push -u origin main
    ```
+
+## Repositorio Original
+
+El código base de este proyecto proviene del repositorio oficial de la asignatura:
+- **Repositorio Original**: https://github.com/snogales-uea/2525-PROGRAMACION-ORIENTADA-A-OBJETOS
+- **Repositorio Actualizado**: https://github.com/davidesya-design/S8-tarea
 
 ## Notas Importantes
 
